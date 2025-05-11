@@ -1,0 +1,7 @@
+[jim-waydroid-slowroll]
+name=Jim Waydroid Repository
+type=rpm-md
+baseurl=https://download.opensuse.org/repositories/home:/jimed-rand:/waydroid/openSUSE_Slowroll/
+gpgcheck=1
+gpgkey=https://download.opensuse.org/repositories/home:/jimed-rand:/waydroid/openSUSE_Slowroll/repodata/repomd.xml.key
+enabled=1
