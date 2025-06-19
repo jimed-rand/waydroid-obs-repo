@@ -1,0 +1,7 @@
+[jim-waydroid-16]
+name=Jim Waydroid Repository
+type=rpm-md
+baseurl=https://download.opensuse.org/repositories/home:/jimed-rand:/waydroid/16.0/
+gpgcheck=1
+gpgkey=https://download.opensuse.org/repositories/home:/jimed-rand:/waydroid/16.0/repodata/repomd.xml.key
+enabled=1
